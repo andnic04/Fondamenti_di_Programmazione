@@ -1,0 +1,12 @@
+# Ignora le cartelle di sistema e di cache del Mac
+.DS_Store
+.Trash/
+
+# Ignora la cartella nascosta delle impostazioni di Obsidian (per evitare problemi)
+.obsidian/
+
+# Ignora file di cache o backup comuni
+temp.md
+*.bak
+
+

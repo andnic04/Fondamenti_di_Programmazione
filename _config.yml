@@ -1,0 +1,16 @@
+title: Archivio Appunti Universitari
+description: Lezioni di Ingegneria Informatica, Fondamenti di Programmazione e Analisi 1.
+baseurl: /Fondamenti_di_Programmazione
+
+# IMPOSTAZIONI DEL TEMA (Jekyll Theme Minimalistic con Sidebar)
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+# CONFIGURAZIONE GENERAZIONE PAGINE
+permalink: /:title
+
+# QUESTO SARÀ IL CONTENUTO DEL MENU LATERALE
+header_pages:
+  - index.md

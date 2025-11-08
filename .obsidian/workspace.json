@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "855d5951119bc627",
+    "type": "split",
+    "children": [
+      {
+        "id": "789815b7185b2db2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56e1e3eb0e66b86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sett.7"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79cfbca8c3d56f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0922ba76cc696423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a1231e0b3ebe06e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "b4a40822b90b8229",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "ce84a5f063e3b437",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbe0299dbb181905",
+    "type": "split",
+    "children": [
+      {
+        "id": "862d4ec6691bbcc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0569b95b1a1eb26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FDP_obs/Ingegneria Informatica/Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/Sett.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Sett.1"
+            }
+          },
+          {
+            "id": "852c6f99679e3c29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FDP_obs/Ingegneria Informatica/Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/Sett.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Sett.1"
+            }
+          },
+          {
+            "id": "f6b8bc94c78eadc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "e567460ffdc64595",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FDP_obs/Ingegneria Informatica/Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/Sett.1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Sett.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "56e1e3eb0e66b86e",
+  "lastOpenFiles": [
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.6.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.5.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.4.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.2.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.3.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.1.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/argomenti.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.11.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.7.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/1. blocco_cpp.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.8.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.9.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.10.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.12.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/argomenti.md",
+    "Appunti_ingegneria/Analisi_1/Esercizi",
+    "Appunti_ingegneria/Analisi_1/Appunti",
+    "Appunti_ingegneria/Analisi_1",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.9.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.8.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.7.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.6.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.5.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.4.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.12.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.11.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.10.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/Sett.3.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/Sett.2.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Esercizi",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione",
+    "Appunti_ingegneria",
+    "Pasted image 20251008135646.png",
+    "Pasted image 20251008140035.png",
+    "Pasted image 20251008140055.png",
+    "Pasted image 20251008140232.png",
+    "Pasted image 20251008140247.png",
+    "Senza nome.canvas"
+  ]
+}
