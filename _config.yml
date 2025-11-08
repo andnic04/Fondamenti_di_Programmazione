@@ -14,3 +14,5 @@ permalink: /:title
 # QUESTO SARÀ IL CONTENUTO DEL MENU LATERALE
 header_pages:
   - index.md
+  - Fondamenti_di_Programmazione/Appunti/Sett.1.md
+  - FDP_obs/Ingegneria Informatica/Appunti_ingegneria/2025-10-07.md

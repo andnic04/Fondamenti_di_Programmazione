@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.7.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sett.7"
+              "title": "index"
             }
           }
         ]
@@ -169,8 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "56e1e3eb0e66b86e",
+  "active": "0a1231e0b3ebe06e",
   "lastOpenFiles": [
+    "Senza nome.canvas",
+    "index.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.7.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.6.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.5.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.4.md",
@@ -179,7 +182,6 @@
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.1.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/argomenti.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.11.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.7.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/1. blocco_cpp.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.8.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.9.md",
@@ -198,8 +200,6 @@
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.12.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.11.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.10.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/Sett.3.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/Sett.2.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Esercizi",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti",
     "Appunti_ingegneria/Fondamenti_di_Programmazione",
@@ -208,7 +208,6 @@
     "Pasted image 20251008140035.png",
     "Pasted image 20251008140055.png",
     "Pasted image 20251008140232.png",
-    "Pasted image 20251008140247.png",
-    "Senza nome.canvas"
+    "Pasted image 20251008140247.png"
   ]
 }
