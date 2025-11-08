@@ -1,3 +1,9 @@
+---
+layout: default
+title: Settimana 2 - Variabili e Tipi
+parent: Fondamenti di Programmazione  
+nav_order: 2                        
+---
 ## Strutture di Controllo e Operatori (C++)
 
 Questa sezione riguarda le fondamenta della scrittura di codice: come è strutturato un programma e come prende decisioni.

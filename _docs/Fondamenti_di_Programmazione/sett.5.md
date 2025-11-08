@@ -1,3 +1,9 @@
+---
+layout: default
+title: Settimana 5 - Puntatori
+parent: Fondamenti di Programmazione
+nav_order: 5
+---
 # PUNTATORI
 
 ### Cosa sono i Puntatori?

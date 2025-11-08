@@ -1,3 +1,9 @@
+---
+layout: default
+title: Settimana 7 - Array Multidimensionali
+parent: Fondamenti di Programmazione
+nav_order: 7
+---
 # MATRICI (Array Multidimensionali)
 
 Un array multidimensionale in C++ non è altro che un "array di array". Il caso più comune è l'array a due dimensioni (2D), che puoi immaginare come una tabella o una matrice con righe e colonne. Sono tipi di array i cui elementi sono array a loro volta: un array del primo tipo si dice monodimensionale, mentre uno del secondo tipo si dice multidimensionale. Per analogia col linguaggio matematico, gli array monodimensionale si chiamano anche vettori. 

@@ -1,18 +1,13 @@
+# CONFIGURAZIONE GENERALE
 title: Archivio Appunti Universitari
 description: Lezioni di Ingegneria Informatica, Fondamenti di Programmazione e Analisi 1.
 baseurl: /Fondamenti_di_Programmazione
 
-# IMPOSTAZIONI DEL TEMA (Jekyll Theme Minimalistic con Sidebar)
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+# IMPOSTAZIONI DEL TEMA
+remote_theme: just-the-docs/just-the-docs
 
-# CONFIGURAZIONE GENERAZIONE PAGINE
-permalink: /:title
-
-# QUESTO SARÀ IL CONTENUTO DEL MENU LATERALE
-header_pages:
-  - index.md
-  - Fondamenti_di_Programmazione/Appunti/Sett.1.md
-  - FDP_obs/Ingegneria Informatica/Appunti_ingegneria/2025-10-07.md
+# CONFIGURAZIONE DELLA BARRA LATERALE
+# Qui useremo le "Collezioni" per raggruppare le materie
+nav_external_links:
+  - title: GitHub Repository
+    url: https://github.com/andnic04/Fondamenti_di_Programmazione

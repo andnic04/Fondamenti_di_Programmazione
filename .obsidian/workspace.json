@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_docs/Fondamenti_di_Programmazione/Sett.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Sett.3"
             }
           }
         ]
@@ -169,21 +169,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a1231e0b3ebe06e",
+  "active": "56e1e3eb0e66b86e",
   "lastOpenFiles": [
-    "Senza nome.canvas",
+    "_docs/Fondamenti_di_Programmazione/sett.4.md",
+    "_docs/Fondamenti_di_Programmazione/sett.5.md",
+    "_docs/Fondamenti_di_Programmazione/sett.6.md",
+    "_docs/Fondamenti_di_Programmazione/sett.7.md",
+    "_docs/Fondamenti_di_Programmazione/Sett.3.md",
+    "_docs/Fondamenti_di_Programmazione/Sett.2.md",
+    "_docs/Fondamenti_di_Programmazione/Sett.1.md",
+    "_docs/Fondamenti_di_Programmazione/sett.8.md",
+    "_docs/Fondamenti_di_Programmazione/index.md",
+    "_docs/Fondamenti_di_Programmazione/1. blocco_cpp.md",
     "index.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/argomenti.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.1.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.8.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.7.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.6.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.5.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.4.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.2.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.3.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.1.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/argomenti.md",
+    "Appunti_ingegneria/Fondamenti_di_Programmazione/Sett.2.md",
+    "Senza nome.canvas",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.11.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/1. blocco_cpp.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.8.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.9.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.10.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/sett.12.md",
@@ -191,15 +201,6 @@
     "Appunti_ingegneria/Analisi_1/Esercizi",
     "Appunti_ingegneria/Analisi_1/Appunti",
     "Appunti_ingegneria/Analisi_1",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.9.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.8.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.7.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.6.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.5.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.4.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.12.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.11.md",
-    "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti/sett.10.md",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Esercizi",
     "Appunti_ingegneria/Fondamenti_di_Programmazione/Appunti",
     "Appunti_ingegneria/Fondamenti_di_Programmazione",
