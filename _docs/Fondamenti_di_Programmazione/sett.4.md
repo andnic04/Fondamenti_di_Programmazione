@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settimana 4 - Tipo riferimenti
+title: Settimana 4
 parent: Fondamenti di Programmazione
 nav_order: 4
 ---

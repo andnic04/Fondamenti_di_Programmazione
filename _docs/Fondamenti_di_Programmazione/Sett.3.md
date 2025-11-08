@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settimana 3 - Ciclo while
+title: Settimana 3
 parent: Fondamenti di Programmazione
 nav_order: 3
 ---

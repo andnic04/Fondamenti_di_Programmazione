@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Home
+title: Fondamenti di Programmazione
+has_children: true 
+nav_order: 1 
 ---
+# 📘 Indice del Corso: Fondamenti di Programmazione
 
-# Benvenuto nell'Archivio Appunti
-
-Usa il menu di navigazione a lato per accedere alle lezioni di:
-
-* [Fondamenti di Programmazione](Fondamenti_di_Programmazione/Sett.1.md)
-* [Analisi 1](Analisi_1/index.md) 
+Questa pagina funge da riepilogo e indice per tutte le lezioni di Fondamenti di Programmazione. Utilizza il menu a lato per la navigazione settimanale.

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Settimana 1 - Introduzione
-parent: Fondamenti di Programmazione  # <-- IL TITOLO ESATTO DELLA PAGINA INDICE
-nav_order: 1                        # <-- Ordine all'interno del sottomenu
+title: Settimana 1
+parent: Fondamenti di Programmazione
+nav_order: 1
 ---
 ### Concetti di Rappresentazione
 

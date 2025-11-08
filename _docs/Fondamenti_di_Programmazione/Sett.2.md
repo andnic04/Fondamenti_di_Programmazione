@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Settimana 2 - Variabili e Tipi
-parent: Fondamenti di Programmazione  
-nav_order: 2                        
+title: Settimana 2
+parent: Fondamenti di Programmazione
+nav_order: 2
 ---
 ## Strutture di Controllo e Operatori (C++)
 
