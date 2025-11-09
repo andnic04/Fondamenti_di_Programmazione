@@ -4,6 +4,7 @@ title: Settimana 1
 parent: Fondamenti di Programmazione
 nav_order: 1
 ---
+
 ### Concetti di Rappresentazione
 
 1. **Rappresentazione Caratteri (Tabella ASCII)** Il computer capisce solo numeri. L'**ASCII** (American Standard Code for Information Interchange) è una tabella che assegna un numero univoco (da 0 a 127) a ogni carattere (lettere, numeri, punteggiatura, simboli). Ad esempio, 'A' è 65, 'B' è 66, 'a' è 97. Questo permette al computer di memorizzare il testo come una sequenza di numeri. ^spiegazione-ascii
