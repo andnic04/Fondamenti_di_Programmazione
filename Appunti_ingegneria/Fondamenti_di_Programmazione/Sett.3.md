@@ -1,3 +1,10 @@
+---
+layout: default
+title: Settimana 3
+parent: Fondamenti di Programmazione
+nav_order: 3
+---
+
 ### Conversioni di tipo implicite ed esplicite
 
 Spesso, il C++ deve eseguire operazioni tra tipi di dato diversi (es. `int` e `double`).

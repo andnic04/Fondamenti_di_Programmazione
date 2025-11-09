@@ -1,3 +1,10 @@
+---
+layout: default
+title: Settimana 4
+parent: Fondamenti di Programmazione
+nav_order: 4
+---
+
 ### VARIABILI GLOBALI E DI BLOCCO (LOCALI)
 
 In C++, il punto in cui dichiari una variabile determina dove essa può essere "vista" e utilizzata nel programma. Le due categorie principali sono le variabili globali e le variabili locali (o di blocco).

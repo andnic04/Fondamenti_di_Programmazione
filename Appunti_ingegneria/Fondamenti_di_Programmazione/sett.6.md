@@ -1,3 +1,10 @@
+---
+layout: default
+title: Settimana 6
+parent: Fondamenti di Programmazione
+nav_order: 6
+---
+
 # 1. Le Stringhe C (c-stringhe)
 
 Questo è il modo "vecchio" di gestire il testo in C/C++. È fondamentale capire che **non sono un tipo di dato magico**, ma una convenzione.
